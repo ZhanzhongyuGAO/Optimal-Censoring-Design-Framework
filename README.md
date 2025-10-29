@@ -9,5 +9,5 @@ The class of task
 
 For case study result, run 'LCM_case.py' ('LCD_case.py') to reproduce Figure.10-13 in the paper.
 
-Required python packages in 'requirement.txt'
+Required python packages in 'requirements.txt'
 
