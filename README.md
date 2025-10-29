@@ -9,11 +9,5 @@ The class of task
 
 For case study result, run 'LCM_case.py' ('LCD_case.py') to reproduce Figure.10-13 in the paper.
 
-Required python packages:
+Required python packages in 'requirement.txt'
 
-matplotlib==3.10.7\\
-memory_profiler==0.61.0\\
-numpy==2.3.4\\
-pandas==2.3.3\\
-scipy==1.16.3\\
-tqdm==4.67.1\\
